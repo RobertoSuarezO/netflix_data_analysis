@@ -32,7 +32,10 @@ El proyecto se centra en la limpieza, transformación y análisis de datos del c
 ### 5. Creación del Dashboard en Power BI
 - Desarrollo de un dashboard interactivo en Power BI para visualizar los insights clave del análisis.
 - Inclusión de visualizaciones como conteos totales (países, shows, series, películas), distribución por año de lanzamiento, desglose por clasificación de edad, categorías/géneros más frecuentes y distribución geográfica por país.
+  ![Panel Principal Netflix](https://github.com/user-attachments/assets/9422f240-b21a-4894-819d-bf4acd4c2df0)
 - Word Cloud para detectar temas recurrentes en las descripciones de los shows.
+  ![Word Cloud de temas en descripción](https://github.com/user-attachments/assets/0827e489-070d-4582-a880-6db7eb3b4f65)
+
 - El dashboard permite una exploración visual de los datos limpios y transformados.
 
 ## 🚀 Configuración del Entorno
